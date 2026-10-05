@@ -4,6 +4,7 @@ py3Dmol
 stmol>=0.0.9
 ipywidgets<8.0.0
 ipython_genutils
+rdkit
 scikit-learn
 pandas
 numpy
