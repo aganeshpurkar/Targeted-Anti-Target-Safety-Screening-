@@ -1,0 +1,2 @@
+target,test_roc_auc,test_f1_score,test_accuracy,test_precision,test_recall
+CYP3A4,0.8849060285898597,0.7492195629552549,0.8045417680454177,0.8,0.7045009784735812
