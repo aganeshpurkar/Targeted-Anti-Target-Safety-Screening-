@@ -1,5 +1,7 @@
 streamlit
 joblib
+py3Dmol
+stmol
 scikit-learn
 pandas
 numpy
