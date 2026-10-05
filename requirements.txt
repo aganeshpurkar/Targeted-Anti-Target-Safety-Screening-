@@ -1,7 +1,9 @@
 streamlit
 joblib
 py3Dmol
-stmol
+stmol>=0.0.9
+ipywidgets<8.0.0
+ipython_genutils
 scikit-learn
 pandas
 numpy
